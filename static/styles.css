@@ -1,0 +1,31 @@
+body {
+    background-color: teal;
+    color: silver;
+    font-family: Roboto Mono, monospace;
+    margin: 0;
+      /*10%*/
+    text-align: center;
+  }
+
+h1 {
+    font-family: 'Big Shoulders Inline Text', cursive;
+    font-size: 900%;
+    color: white;
+    margin: 0;
+}  
+
+h2 {
+    font-family: Sacramento, cursive;
+    font-size: 300%;
+}
+
+
+form {
+    text-align: left;
+    margin-left: 40%;
+}
+/*
+.submit {
+    text-align: right;
+}
+*/
